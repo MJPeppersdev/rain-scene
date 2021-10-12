@@ -39,7 +39,7 @@ function init() {
   
 
     const loader = new THREE.TextureLoader();
-    loader.load("https://i.postimg.cc/TYvjnH2F/smoke-1.png", function(texture){
+    loader.load("https://user-images.githubusercontent.com/28616709/136896101-4b026374-9769-4f7b-81bf-9186a8df12ea.png", function(texture){
 
       const cloudGeometry = new THREE.PlaneBufferGeometry(500,500);
 
